@@ -1,0 +1,2 @@
+D:\Summer\CC++\CC++\test_dll_1\Debug\test_dll_1.exe
+D:\Summer\CC++\CC++\test_dll_1\Debug\test_dll_1.pdb
